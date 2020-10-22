@@ -2,4 +2,11 @@
  you can use them
 
     
-https://cdn.jsdelivr.net/gh/wolfpat01/my_cdn/cdns/readProps.js
+## this script deals with site parameters as an object 
+https://cdn.jsdelivr.net/gh/wolfpat01/my_cdn@main/cdns/getParams.js
+
+usage 
+```js
+const params = getParams();
+console.log(params)
+```
