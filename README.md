@@ -3,7 +3,7 @@
 
     
 ## this script deals with site parameters as an object 
-https://cdn.jsdelivr.net/gh/wolfpat01/my_cdn@main/cdns/getParams.js
+https://cdn.jsdelivr.net/gh/haouarihk/my_cdn@main/cdns/getParams.js
 
 usage 
 ```js
